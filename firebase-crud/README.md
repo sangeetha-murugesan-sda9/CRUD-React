@@ -1,7 +1,8 @@
 
-# Project Console: https://console.firebase.google.com/project/reactwebapp-9a721/overview
-# Hosting URL: https://reactwebapp-9a721.web.app
-
+# Project Console:
+https://console.firebase.google.com/project/reactwebapp-9a721/overview
+# Hosting URL: 
+https://reactwebapp-9a721.web.app
 
 # Getting Started with Create React App
 
